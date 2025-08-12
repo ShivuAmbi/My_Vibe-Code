@@ -1,0 +1,4 @@
+# Requirements for Smart AD Cleanup Assistant
+python-ldap
+scikit-learn
+pandas
